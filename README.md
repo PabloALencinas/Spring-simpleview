@@ -1,4 +1,4 @@
-# CURSO COMPLETO DE SPRING BOOT - 40.5HS CON PROYECTOS
+# CURSO COMPLETO DE SPRING BOOT en ESP (Spanish)
 
 # 1ra Seccion - Introduccion
 
